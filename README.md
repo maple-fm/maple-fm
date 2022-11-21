@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm maple</h1>
 
 <p align="left"> 
-  <a href="https://github.com/maple-fm/maple/">
-    <img src="https://komarev.com/ghpvc/?username=maple" alt="maple" />
+  <a href="https://github.com/maple-fm/maple-fm/">
+    <img src="https://komarev.com/ghpvc/?username=maple-fm" alt="maple" />
   </a>
   <a href="http://twitter.com/25maplen">
     <img height="20" src="https://img.shields.io/twitter/follow/25maplen?label=twitter&style=social" />
@@ -93,6 +93,11 @@
 </a>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=maple-fm&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=maple-fm&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![](https://raw.githubusercontent.com/maple-fm/maple-fm/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/maple-fm/maple-fm/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/maple-fm/maple-fm/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maple-fm&theme=dracula)
 
-<a hrep="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maple-fm&theme=dracula"></a>
+[![](https://activity-graph.herokuapp.com/graph?username=maple-fm&theme=github)](https://activity-graph.herokuapp.com/graph?username=maple-fm&theme=github)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=maple-fm&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=maple-fm&theme=dark)
