@@ -84,14 +84,14 @@
   </p>
 </div>
 
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maple-fm&show_icons=true&theme=tokyonight&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=maple-fm&count_private=true&show_icons=true&theme=tokyonight&line_height=40" />
-</a>
-</div>
+<!-- <div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maple-fm&show_icons=true&theme=tokyonight&count_private=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=maple-fm&count_private=true&show_icons=true&theme=tokyonight&line_height=40" />
+  </a>
+</div> -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=maple-fm&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- [![](https://raw.githubusercontent.com/maple-fm/maple-fm/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
